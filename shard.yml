@@ -1,0 +1,9 @@
+name: open_url
+version: 0.1.0
+
+authors:
+  - Erik Berlin <sferik@gmail.com>
+
+crystal: 1.9.2
+
+license: MIT
